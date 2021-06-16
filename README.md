@@ -2,4 +2,5 @@
 Lifecycle Activity Kotlin Android
 
 # Diagram 
-https://i.ytimg.com/vi/UJN3AL4tiqw/maxresdefault.jpg
+![alt text](https://i.ytimg.com/vi/UJN3AL4tiqw/maxresdefault.jpg)
+
